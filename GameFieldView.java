@@ -2,7 +2,7 @@ package game.view;
 
 import game.core.Game; // Первый коммит в main
 import game.core.GameField; // Второй коммит в main
-import game.model.Cell;
+import game.model.Cell; // Третий коммит в main
 import game.model.Tile;
 import game.model.FreezeMine;
 
