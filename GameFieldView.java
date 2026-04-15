@@ -9,7 +9,7 @@ import game.model.FreezeMine;
 import javax.swing.*; // Первый коммит в left
 import java.awt.*; // Второй коммит в left
 import java.awt.event.MouseAdapter; // Третий коммит в left
-import java.awt.event.MouseEvent;
+import java.awt.event.MouseEvent; // Четвертый коммит в left
 import java.util.HashMap;
 import java.util.Map;
 
