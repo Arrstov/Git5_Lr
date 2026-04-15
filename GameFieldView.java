@@ -1,6 +1,6 @@
 package game.view;
 
-import game.core.Game;
+import game.core.Game; // Первый коммит в main
 import game.core.GameField;
 import game.model.Cell;
 import game.model.Tile;
