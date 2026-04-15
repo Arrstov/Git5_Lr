@@ -15,7 +15,7 @@ import java.util.Map;
 
 public class GameFieldView extends JPanel implements CellUpdateListener {
 
-    private final GameField _field;
+    private final GameField _field; // Первый коммит в right
     private final Game _game;
     private Cell _emptyCell;
     private Map<Cell, CellWidget> _cellWidgets = new HashMap<>();
